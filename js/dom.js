@@ -33,3 +33,15 @@ for(let i = 0; i < list.length; i++){
     list[i].innerText += "Done";
     console.log(list[i].innerText);
 }
+
+const heading = document.getElementById("title");
+heading.innerText = 'Hello My Name is Mosharof';
+console.log(heading);
+
+const allParagraphs = document.getElementsByClassName('text');
+
+for (let i = 0; i < allParagraphs.length; i++) {
+    
+    allParagraphs[i].style.color = "red";
+    console.log(i);
+}
