@@ -17,7 +17,7 @@ ul.appendChild(li1);
 
 const li2 = document.createElement('li');
 li2.innerText= 'Sundorbon';
-ul.appendChild(li2)
+ul.appendChild(li2);
 
 
 placesSection.appendChild(ul);
@@ -37,6 +37,9 @@ booksSection.innerHTML = `
     <li>Chemistry</li>
     <li>Math</li>
     <li>Biology</li>
+    <li>Biology2</li>
+    <li>Biology1</li>
+
 </ul>
 `
 mainContainer.appendChild(booksSection)
