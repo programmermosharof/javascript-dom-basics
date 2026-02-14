@@ -6,3 +6,4 @@ console.log(allSections)
 const firstTitle = document.getElementById('first-title');
 console.log(firstTitle.innerText);
 firstTitle.innerText = 'Prothom prothom valo laga'
+
