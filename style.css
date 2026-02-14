@@ -1,0 +1,16 @@
+.fahim {
+    color: black;
+    font-size: large;
+    background-color: rgb(15, 127, 225);
+    width: 150px;
+    text-align: center;
+    padding: 10px;
+    border-radius: 15px;
+}
+
+.dark {
+  background: black;
+  color: white;
+  padding: 20px;
+}
+
